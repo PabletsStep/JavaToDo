@@ -7,7 +7,7 @@ Com o propósito de aprimorar meus conhecimentos na linguagem JAVA e otimizar me
 ## :books: Funcionalidades
 <b>Funcionalidade 1</b>: Programa permite criar projetos e tarefas.
 <b>Funcionalidade 2</b>: Programa permite adicionar nome, descrições e prazos a essas tarefas.
-<b>Funcionalidade 2</b>: Programa permite a edição e exclusão das mesmas.
+<b>Funcionalidade 3</b>: Programa permite a edição e exclusão das mesmas.
 
 ## :wrench: Tecnologias utilizadas
 * Java
