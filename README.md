@@ -13,7 +13,7 @@ Com o propósito de aprimorar meus conhecimentos na linguagem JAVA e otimizar me
 * Java
 
 ## :rocket: Rodando o projeto
-Para rodar o repositório é apenas necessário clonar projeto utilizando o <a href="https://git-scm.com/downloads">Git</a> e possuir o <a href="https://www.oracle.com/br/java/technologies/downloads/"> java </a> instalado em sua máquina.<br>
+Para rodar o repositório é apenas necessário clonar o projeto utilizando o <a href="https://git-scm.com/downloads">Git</a> e possuir o <a href="https://www.oracle.com/br/java/technologies/downloads/"> java </a> instalado em sua máquina.<br>
 Abra o .exe
 ```
 git clone https://github.com/PabletsStep/JavaToDo.git
